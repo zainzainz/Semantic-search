@@ -1,0 +1,10 @@
+{
+    "video":["VREW" , "Descript" , "Nova A.I." , "Reface: FaceSwap Videos" , "Pictory" , "Descript" , "Munch" , "Fliki" ],
+    "image":["Stable Diffusion","Midjourney","GauGAN","This Person Does Not Exist","Face Generator","Fake People","Ready Player me"],
+    "study":["Genei","Iris.ai","Semantic Scholar","Otter","Summari"],
+    "music":["Jukebox","AIVA","Supertone"],
+    "writing":["ChatGPT","Writer","Notion AI","TLDR This"],
+    "drawing":["AutoDraw","Sketch MetaDemoLab","Magic sketchpad"],
+    "audio":["Murf","Cleanvoice"],
+    "design":["Fontjoy","Looka","Design Beast"]
+}

@@ -1,0 +1,72 @@
+{
+    "VREW":
+    "VREW uses AI to generate captions from speech in your video. Its fast speech recognition replaces tedious manual transcription, and you can easily edit the auto-generated captions. Besides, it allows you to style the captions using different fonts, borders, and shadows.",
+    "Descript":
+    "Descript is a comprehensive AI video editor that lets you create professional-looking videos in a snap. You can use it to add various visual elements, titles and captions, animate layers, and more. Using Descript, you can add a voiceover to your video — they offer a variety of stock voices, and you can also clone your own.",
+    "Nova A.I.":
+    "Nova A.I. is a video categorization and organization tool that helps you find and categorize videos more easily. AI recognizes and tags different elements of your videos: faces, expressions, objects, activities, celebrities… Therefore, it’s a great tool for organizing all kinds of video collections.",
+    "Reface: Face Swap Videos":
+    "The Face Swap mobile app is a fun and easy way to swap faces with friends or celebrities or insert your face into a pre-made video. It uses face swap technology which allows you to swap faces in real time using a camera. It also offers a number of filters, GIFs, and funny videos. ",
+    "Pictory":
+    "Pictory is one of the best text to video converters that transforms long-form text content into branded videos effortlessly. It supports various aspect ratios, offers access to millions of stock videos and images, and automatically adds English captions. Plus, it’s super easy to use. You just need to insert your script, select a template, and the AI will automatically create a storyboard for you. If you wish to convert existing online content, you can simply share a link as an input source. Quite cool, don’t you think?",
+    "Descript":
+    "If you spend a lot of time on social media, you've probably seen those stylish video clips with nice dynamic captions. Well, chances are they were made using Descript. It's the best AI tool for turning your not-so-lovely video footage into branded video clips. Descript automatically transcribes your clip (and removes fillers!), and you can customize aspect ratios, fonts, colors, and other elements.",
+    "Munch":
+    "Munch is an innovative tool that utilizes advanced generative AI and marketing analytics to extract engaging and impactful clips from your long-form videos. It identifies the most shareable moments based on trending analysis and marketing insights, presenting you with coherent and captivating clips.",
+    "Fliki":
+    "Fliki is an easy-to-use AI tool that turns blog posts into captivating videos. Just add the blog article URL, and Fliki will summarize the content, find perfect visuals, and create a video with a realistic voiceover in your chosen voice. With a rich stock media library and over 1000 voices available in 75 languages, Fliki offers endless creative options to effortlessly enhance your content.",
+    "Stable Diffusion":
+    "Similar to DALL-E 2 is Stable Diffusion. It’s a text-to-image model that creates images based on text descriptions. It can also be used to modify existing images following text-based prompts. You can try out how it works on their website. No registration or credit card is required, you only need an idea and a few words to describe the desired result.",
+    "Midjourney":
+    "Another AI art generator is Midjourney. It’s currently in beta, and anyone can start using it via their Discord channel. The trial version is limited to 25 queries. It takes about 1 minute to generate 4 four options based on your text request. But beware — it’s a pretty addictive tool, and you will end up wanting more than 25 images. ",
+    "GauGAN":
+    "If you want to generate realistic images, this one’s for you. GauGAN turns your text prompts into detailed, photorealistic images. You can test it out on their website — no registration is required for a free live demo.",
+    "ChatGPT":
+    "If you don’t live under a rock, you've probably heard of ChatGPT. It's a web based chatbot created by OpenAI that was launched in November 2022 and quickly gained popularity. Its user-friendly interface works like any other traditional chatbot; you ask questions and it provides answers. 💬 Built on top of OpenAI's family of large language models, it has been trained on a vast database of information from the internet. It’s already revolutionizing the way people create text-based content such as essays, emails, blogs, articles, speeches, and even code. 🤯 Plus, it's free to use! You can sign up and try it out here (you’ll be surprised at how smart this thing really is).",
+    "Writer":
+    "Writer is an AI writing tool tailored for enterprise use. It employs generative AI that learns from your data and can be customized to your brand and workflows. From marketing to HR, Writer is versatile and can assist with content creation and writing across multiple departments.",
+    "Notion AI":
+    "There's something about Notion that people just love. In the past, it may have been its customization options, aesthetics, or the ease of use. But they've recently introduced another amazing feature – Notion AI. It's an AI text generator and editor that you can use directly in Notion, without having to leave the app. It just works, and users are loving it.",
+    "TLDR This":
+    "Need to read a long article, but don’t have time? Don’t worry! This AI writing tool will help you summarize any text in just a few seconds. Just paste the link, choose the output (you can choose between short and detailed summaries), and click Generate. You get a summary of the key points you can read easily and quickly. You can also use TLDR plugins for Chrome and Firefox to summarize any text while browsing. The tool summarizes up to 10 pieces of content for free (without registration), and offers two advanced plans for more demanding users.",
+    "Jukebox":
+    "Jukebox is an AI song generator by OpenAI. It can generate singing and music in different styles and genres. You can explore the collection of songs here. The downside is that using this tool requires some coding.",
+    "AIVA":
+    "AIVA is an AI music generator that creates background music for various use cases (games, videos, commercials, events…). It generates unique music based on your needs. You can either start generating music by selecting the predefined styles or upload an original sound file as an influence. If you decide to use their free plan, the generated music should not be used for commercial purposes and is owned by AIWA. For more demanding users, there are paid offers starting from $11/month.",
+    "Supertone":
+    "Supertone is a creative studio from Korea that uses AI to create music, voices, and other sounds. They are specialized in speech enhancement, song revival and dubbing. Want to hear Freddie Mercury singing in Korean? Not a problem!",
+    "This Person Does Not Exist":
+    "AI can create human faces that are indistinguishable from real people. Don’t believe it? Then check out this random face generator.  It allows you to create images of people who, well, don’t actually exist — with a single click. The page was primarily developed as a stunt to raise awareness about AI and its capabilities.",
+    "Face Generator":
+    "While This Person Does Not Exist creates random faces, this face generator lets you apply your own parameters. Using Face Generator, you can select skin color, emotions, hair, makeup, and more in order to generate the face you want. Fun fact: We’re not really into maths, but by manipulating all the parameters, you can get 11.232,000+ variants of the same face. The tool has a free 3-day trial and after that costs $19.99/mo. It also allows you to buy a single image for $8.97/image.",
+    "Fake People":
+    "Fake People is another AI face generator that creates a fake human portrait with just one click. It is based on 70,000 photos of real people, which makes the fake results look very real. 🙂",
+    "Ready Player me":
+    "Ready Player Me is a top-notch AI-based avatar creator designed for the metaverse. This platform empowers users to create their own avatars using a single photo and a wide range of customizable features. With compatibility across 7000+ supported apps and games, Ready Player Me avatars seamlessly integrate into diverse virtual experiences.",
+    "AutoDraw":
+    "Remember the good old Paint? Think of AutoDraw as Paint on steroids. As you doodle on a blank canvas, this AI drawing generator suggests various shapes and symbols it thinks you’d like to draw. You can also add text, change colors, and insert different shapes to your drawing. When you’re done, you can simply download the image. This AI tool was initially an AI experiment by Google Creative Lab.",
+    "Sketch MetaDemoLab":
+    "Did you know that there’s an online tool that can bring your drawings (or those of your children) to life? All you have to do is scan and upload your drawing, and the AI will automatically recognize the objects. After that, you simply select from a variety of movements for your character. You can make them dance, jump, walk… Using this AI drawing tool is free of charge.",
+    "Magic sketchpad":
+    "Magic sketchpad is an AI tool that helps you finish your drawings. Before you start drawing, you select a category to help the algorithm understand what you want to draw. You can also change colors and apply multiple categories to your image. When you’re done, you can download the image in .jpg format. The tool is free and requires no signup. ",
+    "Murf":
+    "Do you also cringe when you hear your own voice? Don't worry - it's pretty common. So, if you don't feel comfortable speaking, Murf.ai is the AI voice generator you're looking for. You can use it in two ways: generate voice from text or upload your own voice recording and tweak it. It supports 20 languages and even lets you adjust the pitch, tone, and speed for a more natural sound.",
+    "Cleanvoice":
+    "Cleanvoice is an AI tool that removes filler sounds, stuttering, and mouth noises from your podcast or audio recordings. Simply upload your audio, let the AI do the cleaning, and export the polished results. There's a 30-minute free trial so you can test it out and see how it works.",
+    "Fontjoy":
+    "We all know that more fonts together look better than a single one, but when it comes to selecting them… That’s when things get complicated. But worry not! This AI design tool helps you pair fonts using deep learning, so you don’t have to rely on your intuition anymore. It’s free and open source.",
+    "Looka":
+    "Need to design a logo and other branded materials, but you’re not a designer? Looka helps you make a logo in seconds. You can select different styles, fonts, layouts, and more until you have the perfect logo for your business. You can download multiple variations of your logo: black and white, coloured, or with a transparent background. Paid plans start at $4.99/month.",
+    "Design Beast":
+    "This AI design platform combines several design features under one roof: Mockup Engine, Logo Factory, Image Editor, Object Remover, Background Remover and Pixel Perfect. It’s a good solution if you’re not a designer, as it has many ready-to-use templates for different use cases. Prices start at a one-time payment of $67.",
+    "Genei":
+    "We all know that research can be very time consuming. That’s why Genei uses AI to speed up your research process. The tool can automatically summarize any PDF or website. You can also ask it questions, and it will provide short, summarized answers based on resources. The Basic plan is $3.99/month, and a free trial is available.",
+    "Iris.ai":
+    "Iris.ai is a workspace for your research that leverages AI to help you with everything research-related. It allows you to upload documents and connect to different data sets, and then apply the software’s comprehensive features to them. This research tool can filter and extract data, understand contexts, and generate summaries. You can request a demo on their website.",
+    "Semantic Scholar":
+    "Want to discover new scientific knowledge faster? Semantic Scholar helps you stay up to date with the latest research trends in your field. It indexes more than 2 million academic research papers and can extract key findings from them in seconds. This AI for research can also help you cite and find influential literature, and will notify you of new papers or citations of your interest. You can use it for free.",
+    "Otter":
+    "Tired of listening to lectures and taking notes at the same time? Otter takes notes for you in real time, so you can focus on listening and engage in other ways. People use it for in-person and virtual lectures and other meets, as it works with Zoom, Google Meet and Microsoft Teams. It allows you to access your notes anywhere (and edit them as you see fit), using the mobile or web app.",
+    "Summari":
+    "So much to read and so little time! Don’t worry — Summari reads the texts for you and provides you with comprehensive summaries in no time. The AI has been trained on thousands of article summaries written by humans, so it is able to follow the human approach: It sets the intro, writes concise headings, and provides key information in the form of bullet points. It helps you summarize texts via Chrome extension, mobile app, or integrations for Slack and Teams. It is currently in Beta so you can use it for free."
+}
